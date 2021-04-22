@@ -1,8 +1,8 @@
 /**
  * Write a description of class kalkulator here.
  *
- * @author abjalriski
- * @version 0.01
+ * @author arynramadhani
+ * @version 0.6
  */
 public class kalkulator
 {
